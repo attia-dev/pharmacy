@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pharmacy", "pharmacy.csproj", "{1BEBF4E4-1BCA-4FF7-B24C-C434A3D94CAD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DeploySetup", "..\DeploySetup.vdproj", "{78879575-617F-41F0-AE7C-E648152F7F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BEBF4E4-1BCA-4FF7-B24C-C434A3D94CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BEBF4E4-1BCA-4FF7-B24C-C434A3D94CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BEBF4E4-1BCA-4FF7-B24C-C434A3D94CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BEBF4E4-1BCA-4FF7-B24C-C434A3D94CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78879575-617F-41F0-AE7C-E648152F7F78}.Debug|Any CPU.ActiveCfg = Debug
+		{78879575-617F-41F0-AE7C-E648152F7F78}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CEC3834-0621-4534-A9DF-6A0962B15FB6}
+	EndGlobalSection
+EndGlobal
